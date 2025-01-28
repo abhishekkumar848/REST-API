@@ -13,3 +13,16 @@ h1{
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 }
+#tag{
+    color: aliceblue;
+    text-decoration: none;
+}
+#editform{
+    height: 400px;
+    width: 400px;
+    margin-left: 600px;
+    margin-top: 150px;
+    border: black 2px solid;
+    text-align: center;
+   
+}
