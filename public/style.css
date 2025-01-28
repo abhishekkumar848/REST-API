@@ -1,0 +1,15 @@
+.main{
+    background-color: antiquewhite;
+}
+h1{
+    background:  linear-gradient(307deg, #42d392, #647eff, #84f2f7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.user{
+   
+    font-size: 20px;
+    background: linear-gradient(336deg, #84f2f7, #f7a3e2, #d8f, #8ae79f);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
